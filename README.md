@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning – Course Completion
+# Neural Networks and Deep Learning 
 
 I am thrilled to share that I have successfully completed the **Neural Networks and Deep Learning** course offered on **Coursera**, achieving an impressive **97.48%** overall grade!
 
