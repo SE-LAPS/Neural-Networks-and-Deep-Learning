@@ -45,6 +45,7 @@ This course provided a solid foundation in deep learning and neural networks, co
 
 ![1](https://github.com/user-attachments/assets/56dce30e-91f9-40a2-81d9-eda5220a380d)
 
+---
 
 ## Acknowledgement
 Thanks to **Andrew Ng** and the DeepLearning.AI team for creating such a comprehensive and practical course. A fantastic start to mastering deep learning!
