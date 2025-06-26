@@ -40,10 +40,6 @@ This course provided a solid foundation in deep learning and neural networks, co
 ## 📜 Certificate
 > *"https://coursera.org/share/15a6027f8a9d5b2014b977e555a1788a"*
 
-
-
-
-
 ---
 
 ## 🙌 Acknowledgement
@@ -52,3 +48,11 @@ Thanks to **Andrew Ng** and the DeepLearning.AI team for creating such a compreh
 ---
 
 🔗 *Stay tuned for more updates as I progress through the Deep Learning Specialization!*
+
+
+
+
+
+
+
+
