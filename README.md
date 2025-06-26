@@ -38,7 +38,7 @@ This course provided a solid foundation in deep learning and neural networks, co
 ---
 
 ## 📜 Certificate
-> *"You passed this course! Your grade is 97.48%."* – Coursera
+> 
 
 ---
 
