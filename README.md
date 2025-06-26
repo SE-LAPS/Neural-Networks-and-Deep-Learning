@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning – Course Completion
 
-🎉 I am thrilled to share that I have successfully completed the **Neural Networks and Deep Learning** course offered on **Coursera**, achieving an impressive **97.48%** overall grade!
+I am thrilled to share that I have successfully completed the **Neural Networks and Deep Learning** course offered on **Coursera**, achieving an impressive **97.48%** overall grade!
 
 ## 📚 Course Overview
 This course provided a solid foundation in deep learning and neural networks, covering both theoretical concepts and hands-on programming assignments. It is the first course of the Deep Learning Specialization by **Andrew Ng**.
