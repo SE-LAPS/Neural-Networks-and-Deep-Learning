@@ -2,12 +2,12 @@
 
 I am thrilled to share that I have successfully completed the **Neural Networks and Deep Learning** course offered on **Coursera**, achieving an impressive **97.48%** overall grade!
 
-## 📚 Course Overview
+## Course Overview
 This course provided a solid foundation in deep learning and neural networks, covering both theoretical concepts and hands-on programming assignments. It is the first course of the Deep Learning Specialization by **Andrew Ng**.
 
 ---
 
-## ✅ Grades Breakdown
+## Grades Breakdown
 
 | 📘 Module | 📅 Due Date | 🧮 Weight | 🎯 Grade | ✅ Status |
 |----------|-------------|-----------|----------|----------|
@@ -28,7 +28,7 @@ This course provided a solid foundation in deep learning and neural networks, co
 
 ---
 
-## 🚀 Key Skills Gained
+## Key Skills Gained
 - Forward and Backward Propagation
 - Logistic and Softmax Regression
 - Shallow and Deep Neural Network Architectures
@@ -37,12 +37,14 @@ This course provided a solid foundation in deep learning and neural networks, co
 
 ---
 
-## 📜 Certificate
+## Certificate
 > *"https://coursera.org/share/15a6027f8a9d5b2014b977e555a1788a"*
 
 ---
 
-## 🙌 Acknowledgement
+
+
+## Acknowledgement
 Thanks to **Andrew Ng** and the DeepLearning.AI team for creating such a comprehensive and practical course. A fantastic start to mastering deep learning!
 
 ---
