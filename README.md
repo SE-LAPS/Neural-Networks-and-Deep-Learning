@@ -24,7 +24,7 @@ This course provided a solid foundation in deep learning and neural networks, co
 
 ## Final Grade: **97.48%**
 
-🟢 **All assessments completed and passed successfully!**
+**All assessments completed and passed successfully!**
 
 ---
 
