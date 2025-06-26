@@ -39,8 +39,8 @@ This course provided a solid foundation in deep learning and neural networks, co
 
 ## Certificate
 > *"https://coursera.org/share/15a6027f8a9d5b2014b977e555a1788a"*
-<br>
-![1](https://github.com/user-attachments/assets/816abe2f-3176-4660-9fec-db628a6f3ec3)
+
+---
 
 
 ## Acknowledgement
